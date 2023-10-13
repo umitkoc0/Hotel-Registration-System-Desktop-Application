@@ -1,0 +1,76 @@
+C:\Users\Toshiba\source\repos\Yıldız oğretmenevi\Yıldız oğretmenevi\bin\Debug\Yıldız oğretmenevi.exe.config
+C:\Users\Toshiba\source\repos\Yıldız oğretmenevi\Yıldız oğretmenevi\bin\Debug\Yıldız oğretmenevi.exe
+C:\Users\Toshiba\source\repos\Yıldız oğretmenevi\Yıldız oğretmenevi\bin\Debug\Yıldız oğretmenevi.pdb
+C:\Users\Toshiba\source\repos\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız oğretmenevi.csproj.AssemblyReference.cache
+C:\Users\Toshiba\source\repos\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız oğretmenevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Toshiba\source\repos\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız_oğretmenevi.Properties.Resources.resources
+C:\Users\Toshiba\source\repos\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız oğretmenevi.csproj.GenerateResource.cache
+C:\Users\Toshiba\source\repos\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız oğretmenevi.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\source\repos\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız oğretmenevi.exe
+C:\Users\Toshiba\source\repos\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız oğretmenevi.pdb
+C:\Users\Toshiba\source\repos\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız_oğretmenevi.frmYeniMusteri.resources
+C:\Users\Toshiba\source\repos\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız_oğretmenevi.FrmAdminGiris.resources
+C:\Users\Toshiba\source\repos\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız_oğretmenevi.FrmAnaForm.resources
+C:\Users\umitkoc\Desktop\Yıldız oğretmenevi\Yıldız oğretmenevi\bin\Debug\Yıldız oğretmenevi.exe.config
+C:\Users\umitkoc\Desktop\Yıldız oğretmenevi\Yıldız oğretmenevi\bin\Debug\Yıldız oğretmenevi.exe
+C:\Users\umitkoc\Desktop\Yıldız oğretmenevi\Yıldız oğretmenevi\bin\Debug\Yıldız oğretmenevi.pdb
+C:\Users\umitkoc\Desktop\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız oğretmenevi.csproj.AssemblyReference.cache
+C:\Users\umitkoc\Desktop\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız oğretmenevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\umitkoc\Desktop\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız_oğretmenevi.FrmAdminGiris.resources
+C:\Users\umitkoc\Desktop\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız_oğretmenevi.FrmAnaForm.resources
+C:\Users\umitkoc\Desktop\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız_oğretmenevi.frmYeniMusteri.resources
+C:\Users\umitkoc\Desktop\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız_oğretmenevi.Properties.Resources.resources
+C:\Users\umitkoc\Desktop\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız oğretmenevi.csproj.GenerateResource.cache
+C:\Users\umitkoc\Desktop\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız oğretmenevi.csproj.CoreCompileInputs.cache
+C:\Users\umitkoc\Desktop\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız oğretmenevi.exe
+C:\Users\umitkoc\Desktop\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız oğretmenevi.pdb
+C:\Users\umitkoc\Desktop\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız_oğretmenevi.FrmOdalar.resources
+C:\Users\umitkoc\Desktop\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız_oğretmenevi.FrmMusteriler.resources
+C:\Users\umitkoc\Desktop\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\bin\Debug\Yıldız oğretmenevi.exe.config
+C:\Users\umitkoc\Desktop\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\bin\Debug\Yıldız oğretmenevi.exe
+C:\Users\umitkoc\Desktop\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\bin\Debug\Yıldız oğretmenevi.pdb
+C:\Users\umitkoc\Desktop\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız oğretmenevi.csproj.AssemblyReference.cache
+C:\Users\umitkoc\Desktop\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız oğretmenevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\umitkoc\Desktop\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız_oğretmenevi.FrmAdminGiris.resources
+C:\Users\umitkoc\Desktop\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız_oğretmenevi.FrmAnaForm.resources
+C:\Users\umitkoc\Desktop\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız_oğretmenevi.FrmMusteriler.resources
+C:\Users\umitkoc\Desktop\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız_oğretmenevi.FrmOdalar.resources
+C:\Users\umitkoc\Desktop\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız_oğretmenevi.frmYeniMusteri.resources
+C:\Users\umitkoc\Desktop\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız_oğretmenevi.Properties.Resources.resources
+C:\Users\umitkoc\Desktop\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız oğretmenevi.csproj.GenerateResource.cache
+C:\Users\umitkoc\Desktop\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız oğretmenevi.csproj.CoreCompileInputs.cache
+C:\Users\umitkoc\Desktop\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız oğretmenevi.exe
+C:\Users\umitkoc\Desktop\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız oğretmenevi.pdb
+C:\Users\umitkoc\Desktop\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız_oğretmenevi.FrmAdminDuzenle.resources
+C:\Users\umitkoc\Desktop\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\bin\Debug\Interop.WMPLib.dll
+C:\Users\umitkoc\Desktop\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\umitkoc\Desktop\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Interop.WMPLib.dll
+C:\Users\umitkoc\Desktop\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\umitkoc\Desktop\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız oğretmenevi.csproj.ResolveComReference.cache
+C:\Users\umitkoc\Desktop\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız_oğretmenevi.FrmRadyoDinle.resources
+C:\Users\umitkoc\Desktop\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız_oğretmenevi.FrmHaberler.resources
+C:\Users\umitkoc\Desktop\Projeler\Yeni klasör\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\bin\Debug\Yıldız oğretmenevi.exe.config
+C:\Users\umitkoc\Desktop\Projeler\Yeni klasör\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\bin\Debug\Yıldız oğretmenevi.exe
+C:\Users\umitkoc\Desktop\Projeler\Yeni klasör\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\bin\Debug\Yıldız oğretmenevi.pdb
+C:\Users\umitkoc\Desktop\Projeler\Yeni klasör\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\bin\Debug\Interop.WMPLib.dll
+C:\Users\umitkoc\Desktop\Projeler\Yeni klasör\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\umitkoc\Desktop\Projeler\Yeni klasör\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız oğretmenevi.csproj.AssemblyReference.cache
+C:\Users\umitkoc\Desktop\Projeler\Yeni klasör\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız oğretmenevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\umitkoc\Desktop\Projeler\Yeni klasör\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Interop.WMPLib.dll
+C:\Users\umitkoc\Desktop\Projeler\Yeni klasör\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\umitkoc\Desktop\Projeler\Yeni klasör\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız oğretmenevi.csproj.ResolveComReference.cache
+C:\Users\umitkoc\Desktop\Projeler\Yeni klasör\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız_oğretmenevi.FrmAdminDuzenle.resources
+C:\Users\umitkoc\Desktop\Projeler\Yeni klasör\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız_oğretmenevi.FrmAdminGiris.resources
+C:\Users\umitkoc\Desktop\Projeler\Yeni klasör\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız_oğretmenevi.FrmAnaForm.resources
+C:\Users\umitkoc\Desktop\Projeler\Yeni klasör\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız_oğretmenevi.FrmHaberler.resources
+C:\Users\umitkoc\Desktop\Projeler\Yeni klasör\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız_oğretmenevi.FrmMusteriler.resources
+C:\Users\umitkoc\Desktop\Projeler\Yeni klasör\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız_oğretmenevi.FrmOdalar.resources
+C:\Users\umitkoc\Desktop\Projeler\Yeni klasör\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız_oğretmenevi.FrmRadyoDinle.resources
+C:\Users\umitkoc\Desktop\Projeler\Yeni klasör\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız_oğretmenevi.frmYeniMusteri.resources
+C:\Users\umitkoc\Desktop\Projeler\Yeni klasör\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız_oğretmenevi.Properties.Resources.resources
+C:\Users\umitkoc\Desktop\Projeler\Yeni klasör\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız oğretmenevi.csproj.GenerateResource.cache
+C:\Users\umitkoc\Desktop\Projeler\Yeni klasör\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız oğretmenevi.csproj.CoreCompileInputs.cache
+C:\Users\umitkoc\Desktop\Projeler\Yeni klasör\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız oğretmenevi.exe
+C:\Users\umitkoc\Desktop\Projeler\Yeni klasör\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız oğretmenevi.pdb
+C:\Users\umitkoc\Desktop\Projeler\Yeni klasör\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız_oğretmenevi.FrmGelirGider.resources
+C:\Users\umitkoc\Desktop\Projeler\Yeni klasör\gizem\Yıldız oğretmenevi\Yıldız oğretmenevi\obj\Debug\Yıldız_oğretmenevi.FrmStoklar.resources

@@ -1,0 +1,25 @@
+C:\Users\umitkoc\Desktop\16211625004-GizemnurArpacı-10.03.2023\Yıldız Oteli\Yıldız Oteli\bin\Debug\Yıldız Oteli.exe.config
+C:\Users\umitkoc\Desktop\16211625004-GizemnurArpacı-10.03.2023\Yıldız Oteli\Yıldız Oteli\bin\Debug\Yıldız Oteli.exe
+C:\Users\umitkoc\Desktop\16211625004-GizemnurArpacı-10.03.2023\Yıldız Oteli\Yıldız Oteli\bin\Debug\Yıldız Oteli.pdb
+C:\Users\umitkoc\Desktop\16211625004-GizemnurArpacı-10.03.2023\Yıldız Oteli\Yıldız Oteli\bin\Debug\Interop.WMPLib.dll
+C:\Users\umitkoc\Desktop\16211625004-GizemnurArpacı-10.03.2023\Yıldız Oteli\Yıldız Oteli\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\umitkoc\Desktop\16211625004-GizemnurArpacı-10.03.2023\Yıldız Oteli\Yıldız Oteli\obj\Debug\Yıldız Oteli.csproj.AssemblyReference.cache
+C:\Users\umitkoc\Desktop\16211625004-GizemnurArpacı-10.03.2023\Yıldız Oteli\Yıldız Oteli\obj\Debug\Yıldız Oteli.csproj.SuggestedBindingRedirects.cache
+C:\Users\umitkoc\Desktop\16211625004-GizemnurArpacı-10.03.2023\Yıldız Oteli\Yıldız Oteli\obj\Debug\Interop.WMPLib.dll
+C:\Users\umitkoc\Desktop\16211625004-GizemnurArpacı-10.03.2023\Yıldız Oteli\Yıldız Oteli\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\umitkoc\Desktop\16211625004-GizemnurArpacı-10.03.2023\Yıldız Oteli\Yıldız Oteli\obj\Debug\Yıldız Oteli.csproj.ResolveComReference.cache
+C:\Users\umitkoc\Desktop\16211625004-GizemnurArpacı-10.03.2023\Yıldız Oteli\Yıldız Oteli\obj\Debug\YıldızOteli.FrmAdminDuzenle.resources
+C:\Users\umitkoc\Desktop\16211625004-GizemnurArpacı-10.03.2023\Yıldız Oteli\Yıldız Oteli\obj\Debug\YıldızOteli.FrmAdminGiris.resources
+C:\Users\umitkoc\Desktop\16211625004-GizemnurArpacı-10.03.2023\Yıldız Oteli\Yıldız Oteli\obj\Debug\YıldızOteli.FrmAnaForm.resources
+C:\Users\umitkoc\Desktop\16211625004-GizemnurArpacı-10.03.2023\Yıldız Oteli\Yıldız Oteli\obj\Debug\YıldızOteli.FrmGelirGider.resources
+C:\Users\umitkoc\Desktop\16211625004-GizemnurArpacı-10.03.2023\Yıldız Oteli\Yıldız Oteli\obj\Debug\YıldızOteli.FrmHaberler.resources
+C:\Users\umitkoc\Desktop\16211625004-GizemnurArpacı-10.03.2023\Yıldız Oteli\Yıldız Oteli\obj\Debug\YıldızOteli.FrmMusteriler.resources
+C:\Users\umitkoc\Desktop\16211625004-GizemnurArpacı-10.03.2023\Yıldız Oteli\Yıldız Oteli\obj\Debug\YıldızOteli.FrmOdalar.resources
+C:\Users\umitkoc\Desktop\16211625004-GizemnurArpacı-10.03.2023\Yıldız Oteli\Yıldız Oteli\obj\Debug\YıldızOteli.FrmRadyoDinle.resources
+C:\Users\umitkoc\Desktop\16211625004-GizemnurArpacı-10.03.2023\Yıldız Oteli\Yıldız Oteli\obj\Debug\YıldızOteli.FrmStoklar.resources
+C:\Users\umitkoc\Desktop\16211625004-GizemnurArpacı-10.03.2023\Yıldız Oteli\Yıldız Oteli\obj\Debug\YıldızOteli.frmYeniMusteri.resources
+C:\Users\umitkoc\Desktop\16211625004-GizemnurArpacı-10.03.2023\Yıldız Oteli\Yıldız Oteli\obj\Debug\YıldızOteli.Properties.Resources.resources
+C:\Users\umitkoc\Desktop\16211625004-GizemnurArpacı-10.03.2023\Yıldız Oteli\Yıldız Oteli\obj\Debug\Yıldız Oteli.csproj.GenerateResource.cache
+C:\Users\umitkoc\Desktop\16211625004-GizemnurArpacı-10.03.2023\Yıldız Oteli\Yıldız Oteli\obj\Debug\Yıldız Oteli.csproj.CoreCompileInputs.cache
+C:\Users\umitkoc\Desktop\16211625004-GizemnurArpacı-10.03.2023\Yıldız Oteli\Yıldız Oteli\obj\Debug\Yıldız Oteli.exe
+C:\Users\umitkoc\Desktop\16211625004-GizemnurArpacı-10.03.2023\Yıldız Oteli\Yıldız Oteli\obj\Debug\Yıldız Oteli.pdb
